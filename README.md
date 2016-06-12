@@ -5,7 +5,7 @@ Traefik setup with Let's Encrypt
 
 Purpose:
 --------
-Main purpose for this project is to prebuild a Træfɪk ([Docker](https://www.docker.com/) setup with Let's encrypt integration. 
+Main purpose for this project is to prebuild a Træfɪk [Docker](https://www.docker.com/) setup with [Let's encrypt](https://letsencrypt.org/) integration. 
 
 Installation
 ------------
