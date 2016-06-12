@@ -1,7 +1,7 @@
 Traefik setup with Let's Encrypt
 ================================
 
-([Træfɪk](https://docs.traefik.io/) is a modern HTTP reverse proxy and load balancer made to deploy microservices with ease.
+[Træfɪk](https://docs.traefik.io/) is a modern HTTP reverse proxy and load balancer made to deploy microservices with ease.
 
 Purpose:
 --------
